@@ -25,7 +25,8 @@
 				"eamodio.gitlens",
 				"bradlc.vscode-tailwindcss",
 				"dsznajder.es7-react-js-snippets",
-				"csstools.postcss"
+				"csstools.postcss",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
